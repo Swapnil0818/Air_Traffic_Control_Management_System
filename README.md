@@ -1,4 +1,4 @@
-# Air_Traffic_Control_Management_System
+# Air Traffic Control Management System
 ## Description
 
 Ground-based air traffic controllers help planes navigate within controlled airspace. They also offer advisory services to aircraft in uncontrolled airspace. Air traffic control (ATC) aims to prevent crashes, organise and speed up traffic flow, and provide pilots with vital information and support. The application will include a variety of features such as aircraft information which include details of all the aircrafts which are about to depart, arrive or already at the airport. The controller would be able to log the aircraft details on touchdown and take-off and would also be able to retrieve in-transit flight information. Moreover, the controller would be able to access and manage administrative aircraft details including cargo load, fuel status etc. A daily flight schedule could be obtained from the underlying database. Hangar status, maintenance crew and emergency vehicle logs would also be maintained.
