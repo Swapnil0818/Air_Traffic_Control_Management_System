@@ -49,6 +49,23 @@ Ground-based air traffic controllers help planes navigate within controlled airs
 * The 'Project_Dependencies' folder is not be imported with the source code as its contents are installed at a later stage.
 * An additonal .exe file is also provided with the source code in order to eliminate the need for setting up the project. It is not to be import with the source code.
 * The 'SQL_DDL_Files' folder is also to be omitted when importing the project to an IDE. It is just to consturct the database in mySQL.
+  
+## Usage
+
+1. Execute runner code.
+
+2. Login with your MySQL Username and Password on the SQL Connection Manager page.
+
+3. Login with valid credentials on the Air Traffic Terminal Login page.
+
+3. Use the Action Panel page to perform the following operations: 
+   manage: scheduled flights, land and takeoff, flights landed, utility vehicles, flight vitals, runway details.
+   view: local radar, scrambler jets, weather details.
+
+4. Query Log Page can be used only by the admin to view all the actions performed by users using
+   the system.
+
+5. Flight Scheduler Page can be used for the following functionalities: add flights, delete already scheduled flights, view airline details.
 
 ## Contributors
 * Swapnil0818 : https://github.com/Swapnil0818
