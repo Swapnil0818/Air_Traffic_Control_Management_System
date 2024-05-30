@@ -28,11 +28,13 @@ Ground-based air traffic controllers help planes navigate within controlled airs
 ## Prerequisites
 
 * Java Development Kit (JDK) installed on the system.
+* A local SQL server to construct the database.
 * An IDE (preferably Eclipse, as the project was built using the same, but can use any) for further development and changes to the source code.
 
 ## Setting up and Installing Dependencies
 
 * Clone the repository or download the source code.
+* Run the mySQL file in the 'SQL_DDL_Files' folder in order to create the database.
 * Open Eclipse IDE and select the 'Import' option in the 'Package Explorer' tab.
 * Locate the project folder on your system and select it
 * After sucessfully importing the project, you would need to add a few dependencies to the project build path,
@@ -46,6 +48,7 @@ Ground-based air traffic controllers help planes navigate within controlled airs
 
 * The 'Project_Dependencies' folder is not be imported with the source code as its contents are installed at a later stage.
 * An additonal .exe file is also provided with the source code in order to eliminate the need for setting up the project. It is not to be import with the source code.
+* The 'SQL_DDL_Files' folder is also to be omitted when importing the project to an IDE. It is just to consturct the database in mySQL.
 
 ## Contributors
 * Swapnil0818 : https://github.com/Swapnil0818
