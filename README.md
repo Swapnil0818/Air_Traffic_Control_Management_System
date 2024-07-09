@@ -69,7 +69,3 @@ Ground-based air traffic controllers help planes navigate within controlled airs
 
 ## Contributors
 * Swapnil0818 : https://github.com/Swapnil0818
-* Ishan :
-* Manav :
-* Mudit :
-* Atharv : 
